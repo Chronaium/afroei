@@ -120,7 +120,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"AfroeiMap\/afroei\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -762,36 +762,13 @@
          "tilewidth":32
         }, 
         {
-         "columns":8,
          "firstgid":257,
-         "image":"AfroeiMap\/afroei\/floortileset.png",
-         "imageheight":272,
-         "imagewidth":272,
-         "margin":1,
-         "name":"floortileset",
-         "spacing":2,
-         "tilecount":64,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":39,
-         "firstgid":321,
-         "image":"AfroeiMap\/afroei\/82-827581_rowersinriver2-rowing-png-rowing-png-transparent-png.png",
-         "imageheight":300,
-         "imagewidth":1274,
-         "margin":0,
-         "name":"82-827581_rowersinriver2-rowing-png-rowing-png-transparent-png",
-         "spacing":0,
-         "tilecount":351,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
+         "source":"floortileset.tsx"
         }, 
         {
          "columns":37,
-         "firstgid":672,
-         "image":"AfroeiMap\/afroei\/82-827581_rowersinriver2-rowing-png-rowing-png-transparent-png.png",
+         "firstgid":321,
+         "image":"82-827581_rowersinriver2-rowing-png-rowing-png-transparent-png.png",
          "imageheight":300,
          "imagewidth":1274,
          "margin":1,
