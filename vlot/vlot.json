@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#vlotentry3"
+                 "value":"https:\/\/chronaium.github.io\/afroei\/map.json#vlotentry3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#vlotentry2"
+                 "value":"https:\/\/chronaium.github.io\/afroei\/map.json#vlotentry2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#vlotentry1"
+                 "value":"https:\/\/chronaium.github.io\/afroei\/map.json#vlotentry1"
                 }],
          "type":"tilelayer",
          "visible":true,
