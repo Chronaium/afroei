@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/fynn2\/afroeiherfst\/vlot#entryvlot3"
+                 "value":"\/@\/fynn2\/afroeiherfst\/vlot#entryvlot3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/fynn2\/afroeiherfst\/vlot#entryvlot2"
+                 "value":"\/@\/fynn2\/afroeiherfst\/vlot#entryvlot2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/fynn2\/afroeiherfst\/vlot#entryvlot1"
+                 "value":"\/@\/fynn2\/afroeiherfst\/vlot#entryvlot1"
                 }],
          "type":"tilelayer",
          "visible":true,

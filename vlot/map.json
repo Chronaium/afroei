@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/fynn2\/afroeiherfst\/loods#vlotentryloods3"
+                 "value":"\/@\/fynn2\/afroeiherfst\/loods#vlotentryloods3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/fynn2\/afroeiherfst\/loods#vlotentryloods2"
+                 "value":"\/@\/fynn2\/afroeiherfst\/loods#vlotentryloods2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/fynn2\/afroeiherfst\/loods#vlotentryloods1"
+                 "value":"\/@\/fynn2\/afroeiherfst\/loods#vlotentryloods1"
                 }],
          "type":"tilelayer",
          "visible":true,
