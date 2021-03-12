@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/chronaium.github.io\/afroei\/vlot\/vlot.json#entryvlot3"
+                 "value":"\/vlot\/vlot.json#entryvlot3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/chronaium.github.io\/afroei\/vlot\/vlot.json#entryvlot2"
+                 "value":"vlot\/vlot.json#entryvlot2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/chronaium.github.io\/afroei\/vlot\/vlot.json#entryvlot1"
+                 "value":"vlot\/vlot.json#entryvlot1"
                 }],
          "type":"tilelayer",
          "visible":true,
