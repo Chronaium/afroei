@@ -1075,8 +1075,18 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":8,
          "firstgid":1322,
-         "source":"signages.tsx"
+         "image":"signages.png",
+         "imageheight":192,
+         "imagewidth":256,
+         "margin":0,
+         "name":"signages",
+         "spacing":0,
+         "tilecount":48,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
